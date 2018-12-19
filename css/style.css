@@ -404,7 +404,7 @@ body {
   -o-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, rgba(0, 0, 0, 0.35) 0 0 1px;
   box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, rgba(0, 0, 0, 0.35) 0 0 1px;
   background: #fff;
-  border: 1px solid #0e4b8b;
+  border: 1px solid #0e4b8b;  
 }
 .login-wrapper .box .content-wrap {
   width: 82%;
@@ -621,7 +621,7 @@ body {
    }
    .sidebar, content-box{
       margin-bottom:30px;
-      width:100%;
+      width:80%;
       float:none;
       position:relative;
    }  
@@ -633,8 +633,8 @@ body {
       text-align:center;
       margin:0 auto;
       margin-bottom:10px;
-      border-bottom:1px dashed #eee;
-      padding-bottom:10px;
+      border-bottom:2px dashed #eee;
+      padding:20px;
    }
    .sidebar-dropdown a, .sidebar-dropdown a:hover{
       color:#fff;
